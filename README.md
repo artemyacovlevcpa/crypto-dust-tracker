@@ -5,6 +5,6 @@
 ## 🔧 Установка
 
 ```bash
-git clone https://github.com/yourusername/crypto-dust-tracker.git
+git clone https://github.com/artemyacovlevcpa/crypto-dust-tracker.git
 cd crypto-dust-tracker
 pip install -r requirements.txt
